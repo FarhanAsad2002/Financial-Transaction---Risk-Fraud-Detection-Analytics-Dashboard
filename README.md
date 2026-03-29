@@ -14,8 +14,6 @@ Key findings highlight unusually high fraud occurrences, strong correlation with
 
 ## Business Problem
 
-![Business Problem](images/Business_Problem.png)
-
 In modern digital banking systems, organizations face challenges such as:
 
 - Increasing **fraudulent transactions**
