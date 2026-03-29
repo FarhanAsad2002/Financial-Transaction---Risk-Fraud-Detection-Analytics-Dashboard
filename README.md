@@ -14,6 +14,8 @@ Key findings highlight unusually high fraud occurrences, strong correlation with
 
 ## Business Problem
 
+![Business Problem](images/Business_Problem.png)
+
 In modern digital banking systems, organizations face challenges such as:
 
 - Increasing **fraudulent transactions**
@@ -58,6 +60,8 @@ The dataset consists of simulated banking transaction data with the following ke
 ---
 
 ## Methodology
+
+![Methadology](images/Methadology.png)
 
 ### 1. Data Cleaning & Transformation
 - Handled missing values  
